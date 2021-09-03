@@ -6,6 +6,6 @@ hello git！hello JZCF!
 hello git！hello JZCF!
 hello git！hello JZCF!
 hello git！hello JZCF!
-hello git！hello JZCF!
+hello git！hello JZCF! hot-fix test
 hello git！hello JZCF!
 
